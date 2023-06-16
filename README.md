@@ -54,16 +54,10 @@
     <main>
       <div class="project">
         <h2>亚洲</h2>
-        <img src="Asia.jpg" alt="">
-        <a href="https://www.bilibili.com/">哔哩哔哩</a>
         <h3>东亚</h3>
-        <img src="East Asia.jpg" alt="">
         <h4>中国</h4>
-        <img src="china.jpg" alt="">
         <h5>上海</h5>
-        <img src="shanghai.jpg" alt="">
         <h6>浦东新区</h6>
-        <img src="caolu.jpg" alt="">
         <p>这是一个令人兴奋的项目。</p>
         <a href="https://www.baidu.com">百度</a>
         <ol>
